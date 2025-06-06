@@ -1,0 +1,4 @@
+output.json
+__pycache__/
+next-app/node_modules/
+next-app/.next/

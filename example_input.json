@@ -1,0 +1,48 @@
+{
+  "previous_posts": [
+    {
+      "title": "Grow Your Newsletter Fast",
+      "theme": "rapid list building",
+      "open_rate": 0.45,
+      "click_rate": 0.05,
+      "reply_count": 12,
+      "top_comments": [
+        "I struggle to keep readers engaged after they sign up.",
+        "Great tips, but I need more info on automation.",
+        "How do I convert subscribers into paying customers?"
+      ]
+    },
+    {
+      "title": "Analyzing Your Metrics",
+      "theme": "data-driven decisions",
+      "open_rate": 0.50,
+      "click_rate": 0.07,
+      "reply_count": 8,
+      "top_comments": [
+        "This was super helpful!",
+        "Could you provide more spreadsheet examples?",
+        "I'm new to analytics—where do I start?"
+      ]
+    },
+    {
+      "title": "Monetization Strategies",
+      "theme": "turning readers into revenue",
+      "open_rate": 0.40,
+      "click_rate": 0.06,
+      "reply_count": 5,
+      "top_comments": [
+        "Which platform is best for beginners?",
+        "What about sponsorships?",
+        "Can you talk about taxes?"
+      ]
+    }
+  ],
+  "additional_research": {
+    "keywords": ["newsletter growth", "email automation", "monetization"],
+    "people_also_ask": [
+      "How often should I email my list?",
+      "What's the best subject line length?"
+    ]
+  },
+  "objective": "increase subscriber replies"
+}
